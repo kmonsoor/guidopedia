@@ -10,9 +10,9 @@ Index of all public resources contributed by Guido van Rossum.  He is the creato
 
 
 ### Web profiles
-Python  :  https://www.python.org/~guido/
-Twitter :  https://twitter.com/gvanrossum
-Google+ :  https://plus.google.com/115212051037621986145
+Python  :  https://www.python.org/~guido/  
+Twitter :  https://twitter.com/gvanrossum  
+Google+ :  https://plus.google.com/115212051037621986145  
 
 
 ## Talks
