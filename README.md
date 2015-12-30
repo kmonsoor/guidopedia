@@ -1,7 +1,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://kmonsoor.mit-license.org/)
 
 # Guidopedia
-Index of all public resources contributed by Guido van Rossum.  He is the creator of Python programming language and self-proclaimed "Benevolent Dictator For Life" (BDFL) in the Python community.
+Index of all public resources contributed by Guido van Rossum.  
+He is the creator of Python programming language and widely known as "Benevolent Dictator For Life" (BDFL) in the Python community.
 
 ### Personal profile
 |Full name | Guido van Rossum |
