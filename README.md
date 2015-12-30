@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://kmonsoor.mit-license.org/)
 
-# guidopedia
+# Guidopedia
 Index of all public resources contributed by Guido van Rossum.  He is the creator of Python programming language and self-proclaimed "Benevolent Dictator For Life" (BDFL) in the Python community.
 
 ### Personal profile
@@ -22,8 +22,8 @@ Google+ :  https://plus.google.com/115212051037621986145
 
 ### Pycons
  * [Pycon 2015 :: Keynote](https://www.youtube.com/watch?v=G-uKNd5TSBw) (30:12)
- * [PyCon:2015 :: Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) (49:26)
- * [EuroPython:2015 :: Keynote:Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU) (59:30)
+ * [PyCon 2015 :: Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) (49:26)
+ * [EuroPython 2015 :: Keynote:Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU) (59:30)
  * [Pycon 2014 :: Keynote ](https://www.youtube.com/watch?v=0Ef9GudbxXY) (35:05)
  * [PyCon Ar 2014 :: Interview](https://www.youtube.com/watch?v=VhCsOwzRgyc) (12:27)
  * [PyCon 2013 :: Keynote](https://www.youtube.com/watch?v=sOQLVm0-8Yg) (56:09)
@@ -50,7 +50,7 @@ Google+ :  https://plus.google.com/115212051037621986145
  * [zhgeeks :: Not the state of the Python union](https://www.youtube.com/watch?v=MLXNpwL7PIg) (1:30:29)
  * [DjangoCon 2008 :: Keynote:Django, and App Engine](https://www.youtube.com/watch?v=CmyFcChTc4M) (58:19)  [2008]
  * [PyData Workshop :: Panel Discussion](https://www.youtube.com/watch?v=qDZZhhAKJXc) (1:29:36)
- * [Oreilly:<code> :: Interview:In Python We Trust ](https://www.youtube.com/watch?v=mWB3oh1GPdo) (16:36)
+ * [Oreilly:Interview :: In Python We Trust](https://www.youtube.com/watch?v=mWB3oh1GPdo) (16:36)
  * [Pycon Iran 2015 :: video greetings](https://www.youtube.com/watch?v=GudJlbK4TY8) (0:39)
  * 
 
