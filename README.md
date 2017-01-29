@@ -32,9 +32,10 @@ He is the creator of Python programming language and widely known as "Benevolent
 -------------------------------------------------------------------------------
 
 ### Web profiles
-Python  :  https://www.python.org/~guido/  
-Twitter :  https://twitter.com/gvanrossum  
-Google+ :  https://plus.google.com/115212051037621986145  
+
+* [Python.org](https://www.python.org/~guido/)
+* [Twitter](https://twitter.com/gvanrossum)
+* [Google+](https://plus.google.com/115212051037621986145)
 
 
 ## Talks
