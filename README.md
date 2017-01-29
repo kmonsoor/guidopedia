@@ -1,15 +1,33 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://kmonsoor.mit-license.org/)
 
 # Guidopedia
-Index of all public resources contributed by Guido van Rossum.  
+Index of all public resources contributed by **Guido van Rossum**.  
 He is the creator of Python programming language and widely known as "Benevolent Dictator For Life" (BDFL) in the Python community.
 
 ### Personal profile
-|Full name | Guido van Rossum |
-|---|---|
-|DOB| January 31, 1956 |
-|Nationality | Netherlands, USA |
-|Current affiliation | Dropbox |
+
+<table>
+<colgroup>
+<col style="width: 160px">
+<col style="width: 138px">
+</colgroup>
+  <tr>
+    <th>Full name</th>
+    <th>Guido van Rossum</th>
+  </tr>
+  <tr>
+    <td>DOB</td>
+    <td>January 31, 1956</td>
+  </tr>
+  <tr>
+    <td>Nationality</td>
+    <td>Netherlands, USA</td>
+  </tr>
+  <tr>
+    <td>Current affiliation</td>
+    <td>Dropbox</td>
+  </tr>
+</table>
 
 -------------------------------------------------------------------------------
 
