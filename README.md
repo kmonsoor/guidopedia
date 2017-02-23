@@ -100,15 +100,15 @@ He is the creator of Python programming language and widely known as "Benevolent
 * [The A-Z of Programming Languages: Python](http://www.computerworld.com.au/article/255835/a-z_programming_languages_python/) [2008-08-05]
 * [The Making of Python: A Conversation with Guido van Rossum, Part I](http://www.artima.com/intv/python.html) [2003-01-13]
 * [O'Reilly Network: Guido van Rossum Speaks](http://www.onlamp.com/pub/a/python/2003/08/14/gvr_interview.html) [2003-08-14]
-* [Naxeo : Guido van Rossum Interview](http://www.nuxeo.com/blog/guido-van-rossum/) [2005-04-11] (in French)[]
+* [Naxeo : Guido van Rossum Interview](http://www.nuxeo.com/blog/guido-van-rossum/) [2005-04-11] (in French)
 
 ### Audiocast
 
 * [FLOSS WEEKLY 11 : GUIDO VAN ROSSUM](https://www.twit.tv/shows/floss-weekly/episodes/11) [2006-08-04]
-* 
+* [Episode #100: Python past, present, and future with Guido van Rossum](https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum) [2017-22-02] (1:01:48)  [SoundCloud](https://soundcloud.com/talkpython/100-python-past-present-and-future-with-guido-van-rossum)
 
 ### Print
-* 
+* ???
 
 ## Books
  * ???
