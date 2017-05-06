@@ -110,7 +110,12 @@ He is the creator of Python programming language and widely known as "Benevolent
 
 ## Books
  * [Python 36 Tutorial](https://books.google.com/books?id=TcAFMQAACAAJ) [2016]
+ * [PYTHON 36 C API](https://books.google.com/books?id=lDYqMQAACAAJ) [2016]
+ * [PYTHON 36 LANGUAGE REF](https://books.google.com/books?id=c4weMQAACAAJ) [2016]
+ * [An Introduction to Python 3: Python Documentation Manual Part 1](https://books.google.com.bd/books?id=51LMQQAACAAJ) [2009]
+ * [Python/C Api Manual - Python 3: (Python Documentation Manual Part 4)](https://books.google.com.bd/books?id=vkWtQQAACAAJ) [2009]
  * [Internet Programming with Python](https://books.google.com/books?id=WaYkkgEACAAJ) [1996]
+ 
 
 
 -------------------------------------------------------------------
