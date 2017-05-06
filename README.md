@@ -107,11 +107,9 @@ He is the creator of Python programming language and widely known as "Benevolent
 * [FLOSS WEEKLY 11 : GUIDO VAN ROSSUM](https://www.twit.tv/shows/floss-weekly/episodes/11) [2006-08-04]
 * [Episode #100: Python past, present, and future with Guido van Rossum](https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum) [2017-22-02] (1:01:48)  [SoundCloud](https://soundcloud.com/talkpython/100-python-past-present-and-future-with-guido-van-rossum)
 
-### Print
-* ???
 
 ## Books
- * ???
+ * [Python 36 Tutorial](https://books.google.com.bd/books?id=TcAFMQAACAAJ) 
 
 
 -------------------------------------------------------------------
